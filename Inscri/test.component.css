@@ -1,0 +1,51 @@
+body{
+    margin:0;
+    padding: 0;
+    
+    
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
+background: linear-gradient(to right, rgb(1, 119, 50) , rgb(176, 248, 7))  no-repeat center fixed;
+    
+background-size: cover;
+overflow-x: hidden;
+position: relative;         
+height: 100vh;
+overflow: hidden;   
+   
+   
+
+    
+}
+.sign_up{
+    position: absolute;
+    top: 20%;
+    left:30%;
+}
+.welcome{
+    position: absolute;
+    top: 10%;
+    left:35%;
+}
+
+.sign_up input{
+    width: 100%;
+    padding: 0 5px;
+    height: 40px;
+    background: none;
+    font-size: 16px;
+     width: 400px;
+    border: 2px solid white;
+    color: white;
+}
+
+.fas{
+
+width: 70%;
+height: 30%;
+font-size:30px;
+color: aliceblue;
+text-decoration:none; 
+margin-left: 180px;
+}
+ 
